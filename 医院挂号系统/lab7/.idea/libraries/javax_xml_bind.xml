@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="javax.xml.bind">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/javax.xml.bind.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/sqljdbc41.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/javafx-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pinyin4j-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfxrt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfxgraph-asm-ext-1.0.0-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
